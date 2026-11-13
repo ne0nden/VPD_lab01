@@ -1,0 +1,19 @@
+# Скомпилированные бинарные и объектные файлы (C, C++, Go, Rust, Assembler)
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+*.class
+
+**/bin/
+**/obj/
+
+dist/
+
+__pycache__/
+*.py[cod]
+
+.vscode/
