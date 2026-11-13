@@ -3,6 +3,7 @@
 
 int main(void)
 {
+    
     SetConsoleCP(CP_UTF8);
     SetConsoleOutputCP(CP_UTF8);
 
