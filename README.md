@@ -1,3 +1,4 @@
+Status: In Progress (Dev 1)
 Команды сборки и запуска:
 С: gcc -Wall -Wextra -pedantic main.c -o main.exe; if ($?) { .\main.exe }
 C++: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o main.exe; if ($?) { .\main.exe }
