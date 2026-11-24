@@ -1,4 +1,4 @@
-Status: In Progress (Dev 1)
+Status: Completed v1.0.0
 Команды сборки и запуска:
 С: gcc -Wall -Wextra -pedantic main.c -o main.exe; if ($?) { .\main.exe }
 C++: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o main.exe; if ($?) { .\main.exe }
@@ -13,4 +13,3 @@ Go: go run main.go
 Bash: bash main.sh
 Prolog: swipl -q -s main.pl -g main -t halt
 Assembler: gcc main.s; if ($?) { .\a.exe }
-
