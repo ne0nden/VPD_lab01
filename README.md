@@ -12,3 +12,4 @@ Go: go run main.go
 Bash: bash main.sh
 Prolog: swipl -q -s main.pl -g main -t halt
 Assembler: gcc main.s; if ($?) { .\a.exe }
+
